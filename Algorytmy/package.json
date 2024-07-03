@@ -1,0 +1,16 @@
+{
+  "name": "algorytmy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "knapsack": "node src/Knapsack.js",
+    "taskAllocation": "node src/TaskAllocation.js",
+    "travellingSalesman": "node src/TravellingSalesman.js",
+    "geneticAlgorithm": "node src/GeneticAlgorithm.js",
+    "rsaAlgorithm": "node src/RsaAlgorithm.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
